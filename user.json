@@ -3,5 +3,12 @@
     "username": "EXzohh",
     "password": "1212",
     "role": "owner"
+  },
+  {
+    "username": "tes",
+    "password": "12",
+    "role": "user",
+    "expiresAt": 1764984356720,
+    "createdAt": 1762392356728
   }
 ]

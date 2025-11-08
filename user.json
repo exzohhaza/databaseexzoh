@@ -10,5 +10,8 @@
     "role": "user",
     "expiresAt": 1764984356720,
     "createdAt": 1762392356728
-  }
+  },
+  { "username": "Wisnu",
+    "password": "12300"
+    "role": "owner"
 ]
